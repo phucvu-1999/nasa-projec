@@ -1,0 +1,13 @@
+{
+  "name": "nasa-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && yarn start",
+    "client": "cd client && yarn start",
+    "watch": "yarn run server & yarn run client"
+  },
+  "repository": "https://github.com/phucvu-1999/nasa-projec.git",
+  "author": "Tien Phuc <leesinvn123@gmail.com>",
+  "license": "MIT"
+}
